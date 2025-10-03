@@ -49,6 +49,7 @@ Asegurate de tener .NET Framework 4.8 instalado.
 Instalá la librería EPPlus desde NuGet:
 Install-Package EPPlus
 
+
 ▶️ Uso
 
 Ejecutá la aplicación desde Visual Studio o el archivo compilado.
@@ -61,18 +62,19 @@ Agregar alumno → ingresar datos manualmente.
 
 Exportar Excel → guardar asistencia en un nuevo archivo.
 
+
 📊 Formato de Excel esperado
 
 El archivo .xlsx debe tener las siguientes columnas:
 
-Nombre	Asistencia	    Fecha de Asistencia	        Curso
-Juan	  true	          2025-03-10	              2785- PANADERO
-María	  false	          2025-03-10	              2790- PRACTICO EN MANTENIMIENTO DE EDIFICIOS
+<img width="665" height="369" alt="image" src="https://github.com/user-attachments/assets/fe532854-2a1d-420a-81ce-66ae1714b762" />
+
 
 
 ## 📸 Capturas
 <img width="1085" height="479" alt="2" src="https://github.com/user-attachments/assets/86cfb5ab-2367-44dd-8786-9205086bb7af" />
 <img width="920" height="480" alt="1" src="https://github.com/user-attachments/assets/8356d072-d77f-49ca-9e9c-ba4498b425db" />
+
 
 📌 Roadmap / Ideas futuras
 
@@ -81,6 +83,7 @@ Filtrar asistencia por curso y fecha.
 Exportar a PDF además de Excel.
 
 Soporte multiusuario con base de datos.
+
 
 📜 Licencia
 
