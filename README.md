@@ -14,7 +14,7 @@
 
 ## 📖 Descripción
 
-ReconKit es una aplicación de escritorio en **C# (WinForms)** para la **gestión de asistencia de alumnos**.  
+Es una aplicación de escritorio en **C# (WinForms)** para la **gestión de asistencia de alumnos**.  
 Permite:
 
 - Registrar alumnos con **nombre, asistencia, fecha y curso**.  
